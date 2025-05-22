@@ -1,1 +1,113 @@
+Here's a detailed `README.md` file for your **Super Sales Store Dashboard** based on the image you've uploaded. This format is tailored for your GitHub repository:
+
+---
+
+# 📊 Super Sales Store Dashboard
+
+## 📝 Project Title
+
+**Super Sales Store Performance Analysis**
+
+## 🧠 Short Description
+
+This interactive Power BI dashboard provides an in-depth analysis of a retail store's sales performance across various dimensions such as segments, categories, shipping methods, payment modes, geography, and time. It helps stakeholders track KPIs, identify top-performing areas, and uncover insights to drive strategic decision-making.
+
+---
+
+## 💻 Tech Stack
+
+* **Power BI** – For dashboard development and visualization
+* **Excel/CSV** – Used as the data source
+* **Power Query** – For data preprocessing
+* **DAX** – For calculated fields and KPIs
+
+---
+
+## 📂 Data Source
+
+* Retail transactional sales data including:
+
+  * Order date, category, and sub-category
+  * Region and state
+  * Segment (Consumer, Corporate, Home Office)
+  * Ship mode
+  * Payment method
+  * Sales, Profit, Quantity, and Returns
+
+---
+
+## ✨ Key Features
+
+* 📌 KPIs: Total Returns, Profit, Quantity, and Sales
+* 📊 Segment, Category, and Sub-Category Analysis
+* 💳 Payment Mode Analysis (COD, Online, Cards)
+* 🚚 Sales by Shipping Mode
+* 📅 Sales & Profit Trends by Month and Year
+* 🗺️ Sales and Profit distribution on US Map (by State)
+* 📉 Monthly Profit fluctuation comparison across years
+* 🔍 Interactive filters for Region and Category
+
+---
+
+## 🏪 Business Problem
+
+Retail companies often struggle with identifying which customer segments, products, or regions generate the most value or result in the most returns. This dashboard helps solve the business problem of understanding:
+
+* Where the store earns most profits
+* What products sell well or return often
+* Which regions or shipping methods are underperforming
+* How performance trends vary by month and year
+
+---
+
+## ❓ Business Questions Answered
+
+1. What is the total sales, profit, and quantity sold?
+2. Which customer segment contributes the most to sales?
+3. What are the top-selling product categories and subcategories?
+4. Which payment mode is most preferred by customers?
+5. What is the return volume, and how does it impact profit?
+6. Which shipping mode is most commonly used and profitable?
+7. How do sales and profit trends change month-over-month across years?
+8. Which U.S. states have the highest and lowest performance in terms of sales and profit?
+9. How do different regions perform across different product categories?
+10. Which months show peak sales and profit dips?
+
+---
+
+## 📈 Dashboard Preview
+
+![Super Sales Dashboard](./SuperSales-Dashboard.png)
+
+---
+
+## 📌 Insights Summary
+
+* 💰 **Total Sales**: 1.57M | **Total Profit**: 175.26K | **Quantity Sold**: 22K | **Returns**: 5901
+* 🧍‍♂️ **Segment Performance**:
+
+  * Consumer: 48%
+  * Corporate: 32.55%
+  * Home Office: 19.35%
+* 🛍️ **Top Categories**: Office Supplies > Technology > Furniture
+* 🛒 **Top Subcategories**: Phones, Chairs, Binders
+* 💳 **Payment Preferences**: COD > Cards > Online
+* 🚚 **Ship Mode Performance**: Standard Class dominates with 0.91M sales
+* 🗺️ **Geographical Insights**: West and East coast states show higher activity
+* 📅 **Seasonal Trends**:
+
+  * 2020 shows higher monthly profits compared to 2019
+  * July–October sees higher sales across both years
+
+---
+
+## 📌 How to Use
+
+1. Load the `.pbix` file in Power BI Desktop.
+2. Use dropdown filters to drill down by region or product category.
+3. Explore the map to identify top/bottom-performing states.
+4. Compare yearly trends for profit and sales.
+5. Share business insights with marketing, logistics, and finance teams.
+
+---
 
