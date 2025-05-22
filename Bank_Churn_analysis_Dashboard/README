@@ -1,1 +1,107 @@
+Here’s a complete `README.md` file for your **Bank Churn Analysis Power BI Dashboard** based on the image you provided. This version is ready to be used for GitHub:
+
+---
+
+# 📊 Bank Churn Analysis Dashboard
+
+## 📝 Project Title
+
+**Bank Churn Analysis Dashboard**
+
+## 🧠 Short Description
+
+This Power BI dashboard provides a comprehensive analysis of customer churn in a banking environment. The visualizations help identify patterns and trends in customer attrition based on demographics, credit scores, country, product usage, and other factors, helping stakeholders make informed decisions to improve customer retention.
+
+---
+
+## 💻 Tech Stack
+
+* **Power BI**: For data visualization and dashboard development
+* **Excel/CSV**: Used as a data source
+* **DAX & Power Query**: For calculated measures and data transformations
+
+---
+
+## 📂 Data Source
+
+The data used in this dashboard includes customer demographic and behavioral information such as:
+
+* Customer gender
+* Country
+* Age group
+* Active status
+* Credit card ownership
+* Credit score
+* Product usage
+* Churn status
+
+---
+
+## ✨ Key Features
+
+* Total customer overview with churn rate and lost customers count
+* Donut charts analyzing:
+
+  * Gender distribution
+  * Active vs. inactive customers
+  * Credit card ownership
+  * Country-wise customer distribution
+  * Churn vs. non-churn rates
+* Churn rate analyzed by:
+
+  * Age group
+  * Credit score
+  * Country & gender
+* Product-wise customer count
+
+---
+
+## 🏦 Business Problem
+
+Churn is a significant problem in the banking industry. Customer attrition can lead to revenue loss and higher costs to acquire new customers. This dashboard addresses the business problem of identifying the segments where churn is high, understanding the characteristics of churned customers, and finding actionable insights to reduce churn and improve customer loyalty.
+
+---
+
+## ❓ Business Questions Answered
+
+1. What is the overall churn rate of the bank’s customers?
+2. How many customers have been lost, and what is the total customer base?
+3. Which gender churns more?
+4. How does churn vary by age group?
+5. What is the churn distribution across different countries?
+6. What is the churn trend across various credit score ranges?
+7. Do active or inactive customers churn more?
+8. How does credit card ownership affect churn?
+9. Which product has the highest number of customers?
+10. What is the churn distribution by country and gender?
+
+---
+
+## 📈 Dashboard Preview
+
+![Bank Churn Dashboard](./Bank_Churn_Analysis-Dashboard.png)
+
+---
+
+## 🧩 Insights Summary
+
+* **Churn Rate**: 20.4% of customers have churned.
+* **Customer Base**: Total of 9,973 customers with 2,030 lost.
+* **Gender**: Slightly more male customers (54.55%).
+* **Activity**: Almost equal distribution between active and inactive customers.
+* **Credit Card Ownership**: 70.52% of customers own credit cards.
+* **Country Distribution**: France has the highest number of customers (50.13%), followed by Germany and Spain.
+* **Age Impact**: Customers aged 51-60 have the highest churn rate.
+* **Credit Score Impact**: Customers with scores <400 have a churn rate of nearly 100%.
+* **Product Usage**: Product 1 is the most popular among customers.
+
+---
+
+## 📌 How to Use
+
+1. Open the Power BI `.pbix` file (if available).
+2. Use filters to interactively analyze churn based on different dimensions.
+3. Share insights with your team or decision-makers to create churn reduction strategies.
+
+---
 
