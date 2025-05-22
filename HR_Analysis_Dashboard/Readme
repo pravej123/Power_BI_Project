@@ -1,1 +1,103 @@
+Here's a comprehensive **README.md** file for your HR Analytics Dashboard project, suitable for GitHub:
+
+---
+
+# 💼 HR Analytics Dashboard
+
+## 📌 Project Title
+
+**HR Analytics Dashboard – Employee Attrition Insights**
+
+---
+
+## 📝 Short Description
+
+This project presents a detailed HR analytics dashboard built to analyze employee attrition data. The dashboard offers insights into employee demographics, job roles, salary slabs, and attrition patterns to assist HR teams in understanding the root causes of employee turnover and taking corrective actions.
+
+---
+
+## 🔧 Tech Stack
+
+* **Power BI** – for data visualization and dashboard creation
+* **MS Excel / CSV** – as the data source
+* **DAX** – for calculated columns and measures
+* **Power Query** – for data transformation and modeling
+
+---
+
+## 🗂️ Data Source
+
+* The dataset used is an HR employee attrition dataset containing:
+
+  * Employee demographics (age, gender, education)
+  * Job details (role, department, salary, years at company)
+  * Attrition status (yes/no)
+
+---
+
+## 📊 Key Features
+
+* Total Employees, Attrition Count, and Attrition Rate KPIs
+* Visual breakdown of attrition by:
+
+  * **Education**
+  * **Age**
+  * **Gender**
+  * **Job Role**
+  * **Salary Slabs**
+  * **Years at Company**
+* Drilldown by **Department** (HR, R\&D, Sales)
+* Interactive filters for dynamic analysis
+* Easily interpretable charts for quick decision-making
+
+---
+
+## 💼 Business Problem
+
+High employee attrition can lead to increased hiring and training costs, reduced productivity, and potential loss of organizational knowledge. The goal of this dashboard is to help HR professionals:
+
+* Identify which segments (e.g., roles, age groups, salary levels) have the highest attrition.
+* Pinpoint trends and patterns over years at the company.
+* Make data-driven decisions for talent retention strategies.
+
+---
+
+## ❓ Dashboard-based Questions
+
+1. **What is the overall attrition rate in the company?**
+2. **Which age group has the highest attrition?**
+3. **Which department faces the most attrition?**
+4. **Which job roles are most affected by attrition?**
+5. **Is there any significant gender difference in attrition?**
+6. **Which education background has the highest number of attritions?**
+7. **What salary slab has the most attrition cases?**
+8. **How does attrition vary with years spent at the company?**
+9. **What is the average age and salary of employees who left?**
+10. **Which job roles see attrition in the first year the most?**
+
+---
+
+## 📸 Dashboard Preview
+
+![HR Analytics Dashboard](./Screenshot%202025-05-22%20113242.png)
+
+---
+
+## 📈 Outcome
+
+By using this dashboard, HR managers can better:
+
+* Predict at-risk employee segments
+* Focus on improving retention in vulnerable groups
+* Align compensation and growth strategies to employee expectations
+
+---
+
+## 🧠 Future Scope
+
+* Add predictive analytics using Python/ML to forecast future attrition.
+* Include satisfaction scores and performance metrics.
+* Integrate real-time data updates with automated data refresh.
+
+---
 
